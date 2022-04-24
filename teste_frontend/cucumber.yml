@@ -1,0 +1,5 @@
+default: -p homolog -p pretty -p html
+pretty: --format pretty
+for_ci: --format progress
+html: --format html --out=results/report.html
+homolog: ENVIRONMENT_TYPE=homolog
