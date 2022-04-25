@@ -1,3 +1,4 @@
+#este arquivo tem como objetivo setar alguns parametros para acesso da API disponibilizada e como o HTTParty retornara ela no teste
 module Rest
     class Services
         include HTTParty

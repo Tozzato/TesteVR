@@ -1,7 +1,8 @@
+#configuração do default para a saida do cucumber
 default: -p html_report -p hlg
 
-### Ambientes ###
+#ambiente a ser utilizado
 hlg: AMBIENTE=hlg
 
-### Reports ###
+#tipo de report a ser utilizado
 html_report: --format pretty -f html -o reports/features_report.html

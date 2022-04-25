@@ -1,6 +1,7 @@
 #language:pt
 #utf-8
 
+#arquivo montado para utilizar o BDD
 @Navegar_site
 Funcionalidade: Navegar no site
 Eu como usuario do site

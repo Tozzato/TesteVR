@@ -1,3 +1,4 @@
+#este arquivo seta o default exit do cucumber assim podendo ser mudado dependendo da situação
 default: -p homolog -p pretty -p html
 pretty: --format pretty
 for_ci: --format progress

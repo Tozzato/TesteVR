@@ -1,6 +1,7 @@
 #language: pt
 #utf-8
 
+#este arquivo tem como finalidade de ser utilizado para o BDD
 Funcionalidade: produtos e estabelecimentos
     Validar retorno do serviço
 
